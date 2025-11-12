@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- خلفية الشاشة -->
+    <color name="settings_background">#F5F7FB</color>
+
+    <!-- ألوان نصوص -->
+    <color name="settings_text_color">#222222</color>
+    <color name="settings_app_version_text_color">#7A7A7A</color>
+
+    <!-- ألوان أيقونات -->
+    <color name="settings_icon_tint_blue">#1E88E5</color>
+    <color name="settings_icon_tint_red">#E53935</color>
+    <color name="settings_icon_tint_gray">#616161</color>
+    <color name="settings_icon_tint_green">#2E7D32</color>
+    <color name="settings_icon_tint_orange">#FB8C00</color>
+    <color name="settings_icon_tint_link">#1565C0</color>
+
+    <!-- أسهم/أسطر -->
+    <color name="settings_arrow_tint">#9E9E9E</color>
+    <color name="settings_divider_color">#22000000</color> <!-- 13% أسود -->
+</resources>

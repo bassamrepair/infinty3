@@ -1,0 +1,25 @@
+<resources>
+    <!-- عناوين رئيسية -->
+    <string name="settings_title">الإعدادات</string>
+    <string name="settings_general_section">عام</string>
+    <string name="settings_support_section">الدعم</string>
+
+    <!-- عناصر الصفوف -->
+    <string name="settings_dark_mode">الوضع الليلي</string>
+    <string name="settings_notifications">الإشعارات</string>
+    <string name="settings_language">اللغة</string>
+    <string name="settings_contact_developers">تواصل مع المطورين</string>
+    <string name="settings_report_problem">أخبرنا عن مشكلة</string>
+    <string name="settings_manage_downloads">التنزيلات</string>
+    <string name="settings_privacy_policy">سياسة الخصوصية</string>
+
+    <!-- جديد: قسم الحساب + تسجيل الخروج -->
+    <string name="settings_account_section">الحساب</string>
+    <string name="settings_logout">تسجيل الخروج</string>
+    <!-- (اختياري) رسائل مساعدة -->
+    <string name="settings_logout_confirm">هل تريد تسجيل الخروج؟</string>
+
+    <!-- نصوص مساعدة -->
+    <string name="settings_view_details">عرض التفاصيل</string>
+    <string name="settings_app_version">إصدار التطبيق</string>
+</resources>
